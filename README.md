@@ -33,7 +33,3 @@ git push heroku master
 msgpack issue:
 gem uninstall msgpack
 bundle install --redownload
-
-curl https://fightforfelines.herokuapp.com/
-
-index.html (home page)
